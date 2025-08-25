@@ -106,7 +106,7 @@ jupyter notebook notebooks/classification.ipynb
 ---
 
 ## 📄 Reports
-- 📑 [Project Report (PDF)](report/Project_Report.pdf)
+- 📑 [Project Report (PDF)](Report/Project_Report.pdf)
 
 ---
 
