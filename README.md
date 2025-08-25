@@ -51,7 +51,7 @@ The project consists of **two main tasks**:
 ├── dataset/                   
 ├── notebook/              # Jupyter notebook
 │    ├── Project_Reg_Class.ipynb
-├── reports/
+├── report/
 │    ├── Project_Report.pdf
 ├── visuals/                 # Visualizations for README
 ├── requirements.txt
@@ -106,7 +106,7 @@ jupyter notebook notebooks/classification.ipynb
 ---
 
 ## 📄 Reports
-- 📑 [Project Report (PDF)](reports/Project_Report.pdf)
+- 📑 [Project Report (PDF)](report/Project_Report.pdf)
 
 ---
 
