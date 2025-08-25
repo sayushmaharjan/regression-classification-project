@@ -125,4 +125,4 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 **Your Name**  
-📧 [Email](mailto:your-email@example.com) | 🌐 [Portfolio](#) | 💼 [LinkedIn](#)
+📧 [Email](mailto:smmnr@umsystem.edu) | 🌐 [Portfolio](https://www.sayush.com.np) | 💼 [LinkedIn](https://www.linkedin.com/in/sayush-m/)
