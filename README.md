@@ -101,7 +101,6 @@ jupyter notebook notebooks/classification.ipynb
 ![Pairplot for classification task](visuals/pairplot2.png)
 <!-- ![Classification Confusion Matrix](images/confusion_matrix.png) -->
 
-*(Add images to the `images/` folder and replace these placeholders.)*
 
 ---
 
