@@ -120,9 +120,3 @@ jupyter notebook notebooks/classification.ipynb
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-
----
-
-## 👤 Author
-**Your Name**  
-📧 [Email](mailto:smmnr@umsystem.edu) | 🌐 [Portfolio](https://www.sayush.com.np) | 💼 [LinkedIn](https://www.linkedin.com/in/sayush-m/)
